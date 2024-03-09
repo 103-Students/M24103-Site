@@ -1,0 +1,93 @@
+.accent{
+    color:#00FFF7;
+}
+.downsize{
+    max-height: 400px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    max-width:100%;
+}
+.white{
+    color:white;
+}
+.head{
+    text-align:center;
+}
+body{
+    background-color:white;
+}
+.arrows{
+    background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+.prop{
+    margin-left:10px;
+}
+.navbar{
+    background-color:black;
+    overflow:hidden;
+    position:sticky;
+    top:0px;
+}
+.active{
+    color:#00FFF7 !important;
+    text-decoration: none !important;
+
+}
+.segment{
+    color: white !important;
+    text-decoration: none !important;
+}
+.icon-downsize{
+    max-height:30px;
+}
+.fa-solid{
+    font-family:"Font Awesome 6 Free";
+}
+.quotation{
+    margin-left:50px;
+}
+.carousel{
+    margin-bottom:20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display:inline-block;
+    line-height:40px;
+    margin-left:20px;
+    margin-right:20px;
+    font-size:large;
+}
+.overshoot{
+    font-size:72px !important 
+}
+@media screen and (max-width: 650px) {
+    .overshoot{
+        font-size:36px !important
+    }
+}
+.plonk{
+    display:inline;
+}
+svg{
+    display:inline;
+    float:left;
+    margin-right:0px;
+    right:0px;
+    padding-right:0px;
+}
+.relativity{
+    position:relative;
+    margin-left:40px;
+}
+li{
+    display:flexbox;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    position:relative !important;
+    top:100px !important;
+  }
