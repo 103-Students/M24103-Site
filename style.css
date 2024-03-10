@@ -35,8 +35,9 @@ body{
 
 }
 .segment{
-    color: white !important;
+    color: white;
     text-decoration: none !important;
+    transition: 0.3s;
 }
 .icon-downsize{
     max-height:30px;
@@ -90,4 +91,5 @@ li{
 .carousel-control-next-icon, .carousel-control-prev-icon{
     position:relative !important;
     top:100px !important;
-  }
+ }
+.segment:hover {color: blue}
