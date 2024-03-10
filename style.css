@@ -37,7 +37,7 @@ body{
 .segment{
     color: white;
     text-decoration: none !important;
-    transition: 0.3s;
+    transition: 0.5s;
 }
 .icon-downsize{
     max-height:30px;
