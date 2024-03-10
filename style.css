@@ -93,3 +93,21 @@ li{
     top:100px !important;
  }
 .segment:hover {color:cyan}
+.ann-title{
+    text-align: center;
+    padding-top:10px;
+}
+.ann-text{
+    text-align: center;
+    margin-left:30px;
+    margin-right:30px;
+    padding-bottom:10px;
+}
+.ann{
+    outline-width: 2px;
+    outline-color:#00FFF7;
+    outline-style:dashed;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:30px;
+}
