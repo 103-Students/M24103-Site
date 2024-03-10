@@ -1,0 +1,18 @@
+<svg width="800px" height="800px" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50%" cy="50%" r="49%" fill="cyan" fill-opacity="0.5" stroke-width="2%" stroke="black" stroke-dasharray="123.150432021"/>
+  <path d="
+    M200 600
+    l0 -400
+    l-100 100
+    M400 200
+    c-100 0, -100 400, 0 400
+    s100 -400, 0 -400
+    M575 200
+    c150 0, 150 200, 0 200
+    c150 0, 150 200, 0 200"
+    stroke="black"
+    stroke-width="50"
+    stroke-linecap="round"
+    fill="none"
+    stroke-linejoin="round"/>
+</svg>
