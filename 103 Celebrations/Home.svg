@@ -1,0 +1,22 @@
+<svg fill="none" width="800px" height="800px" xmlns="http://www.w3.org/2000/svg">
+  <path stroke="white" stroke-width="50px" d="
+    M700 400
+    l-300 -300
+    l-300 300" stroke-linecap="round" stroke-linejoin="round"/>
+  <path stroke="white" stroke-width="50px" d="
+    M500 200
+    l0 -100
+    l100 0
+    l0 200" stroke-linecap="round" stroke-linejoin="round" fill="white"/>
+  <path stroke="white" stroke-width="25px" d="
+    M400 200
+    l-200 200
+    v300
+    h125
+    v-125
+    h150
+    v125
+    h125
+    v-300
+    L400 200" stroke-linecap="round" stroke-linejoin="round" fill="white"/>
+</svg>
