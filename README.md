@@ -11,3 +11,4 @@ Version History:
 2.0.2 Minor bug fix where Github stopped updating (11/3)  
 3.0.0 Navbar becomes icons if viewed on mobile, making it more mobile-friendly through implementation of media             queries. (12/3)  
 3.0.1 Bug where README version history did not display properly patched (12/3)  
+3.0.2 Visual bug involving the wrong hyperlinks on the navbar being active patched (12/3)  
