@@ -114,6 +114,7 @@ li{
     margin-left:20px;
     margin-right:20px;
     margin-bottom:30px;
+    transition:0.5s;
 }
 .ann:hover{
     outline-style:solid;
