@@ -75,7 +75,7 @@ li{
     display:inline;
 }
 .asawhole{
-    transition:0.3s;
+    transition:0.5s;
 }
 .asawhole:hover{text-shadow: #00FFF7 1px 0 10px;}
 svg{
