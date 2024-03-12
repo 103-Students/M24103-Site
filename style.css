@@ -117,8 +117,7 @@ li{
 }
 .ann:hover{
     outline-style:solid;
-    background-color:cyan;
-    opacity:0.3;
+    background-color:lightgreen;
 }
 .big-chungus{
     display:inline !important;
