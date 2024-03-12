@@ -74,6 +74,7 @@ li{
 .plonk{
     display:inline;
 }
+.asawhole:hover{text-shadow: #00FFF7 1px 0 10px;}
 svg{
     display:inline;
     float:left;
