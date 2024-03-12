@@ -111,3 +111,17 @@ li{
     margin-right:20px;
     margin-bottom:30px;
 }
+.big-chungus{
+    display:inline !important;
+}
+.smol-chungus{
+    display:none !important;
+}
+@media screen and (max-width:650px){
+    .big-chungus{
+        display:none !important;
+    }
+    .smol-chungus{
+        display:inline !important;
+    }
+}
