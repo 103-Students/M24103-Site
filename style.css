@@ -111,6 +111,7 @@ li{
     margin-right:20px;
     margin-bottom:30px;
 }
+.ann:hover{outline-style:solid;}
 .big-chungus{
     display:inline !important;
 }
