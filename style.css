@@ -9,8 +9,9 @@
     max-width:100%;
 }
 .white{
-    color:white;
+    color:#C0FFF7;
 }
+.white:hover{color:#00FFF7;}
 .head{
     text-align:center;
 }
