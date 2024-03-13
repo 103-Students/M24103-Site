@@ -13,3 +13,4 @@ Ver. 2.1 Navbar becomes icons if viewed on mobile, making it more mobile-friendl
 Ver. 2.1 (Patch 1) Bug where README version history did not display properly patched (12/3)  
 Ver. 2.1 (Patch 2) Visual bug involving the wrong hyperlinks on the navbar being active patched (12/3)  
 Ver 2.2 Effect added to announcements and quotes when hovered upon (12/3)  
+Ver 2.3 Further visual effects added (13/3)  
