@@ -14,3 +14,8 @@ Ver. 2.1 (Patch 1) Bug where README version history did not display properly pat
 Ver. 2.1 (Patch 2) Visual bug involving the wrong hyperlinks on the navbar being active patched (12/3)  
 Ver 2.2 Effect added to announcements and quotes when hovered upon (12/3)  
 Ver 2.3 Further visual effects added (13/3)  
+
+Guide to the version system used here:  
+A new integer version is declared when a radical feature, such as a new page, is added to the website.  
+A new decimal version is declared when a small visual or functional feature is added.  
+Patches denote bug fixes.  
