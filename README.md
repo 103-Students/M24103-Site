@@ -19,3 +19,8 @@ Guide to the version system used here:
 A new integer version is declared when a radical feature, such as a new page, is added to the website.  
 A new decimal version is declared when a small visual or functional feature is added.  
 Patches denote bug fixes.  
+
+For those who want to know:  
+Our website has two different colour schemes! We have one normal colour scheme, and one pastel colour scheme, both comprising of three triadic colours each. Triadic colours means that they're evenly spaced apart from each other on a colour wheel.  
+Our default colour scheme in hexcodes: #00FFF7 #F700FF #FFF700  
+Our pastel colour scheme in hexcodes: #C0FFF7 #F7C0FF #FFF7C0  
